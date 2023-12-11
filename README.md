@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ViolettaSofia
 - 👀 I am a freelance SEO consultant, learning programming and web desing to become a better technical SEO 
-- 🌱 I’m currently learning responsive web design and Python. 
-- 📫 https://www.linkedin.com/in/violetadelgadoc/
+- 🌱 Currently learning responsive web design and Python. 
 
 <!---
 ViolettaSofia/ViolettaSofia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
